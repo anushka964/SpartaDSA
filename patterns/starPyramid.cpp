@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+
+
 int main(){
     int rows;
  cout<<"Enter number of rows: ";
